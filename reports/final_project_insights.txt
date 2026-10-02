@@ -1,0 +1,13 @@
+
+FINAL PROJECT INSIGHTS
+----------------------
+
+Total Customers: 7043
+High-Risk Customers: 419
+Average Tenure of High-Risk Customers: 13.1 months
+Average Monthly Charges of High-Risk Customers: 76.22
+
+Highest Churn Segment: Segment 2
+Highest Risk Contract Type: Month-to-month
+Highest Risk Internet Service: Fiber optic
+Highest Risk Payment Method: Electronic check
